@@ -4,7 +4,7 @@ description: Turn into a "second brain" extension of my personal knowledge, sour
 ---
 
 # Obsidian Vault Location
-C:\Users\z004h76n\Documents\obsidian-personal
+D:\Qaffas\obsidian-personal
 
 # How notes are structured
 In the vault, each group of related notes are grouped in a folder. There can be nested folders for sub-topics.
